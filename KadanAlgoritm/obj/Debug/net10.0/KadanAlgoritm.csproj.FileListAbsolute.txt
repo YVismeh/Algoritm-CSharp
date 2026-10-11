@@ -1,0 +1,14 @@
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/bin/Debug/net10.0/KadanAlgoritm
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/bin/Debug/net10.0/KadanAlgoritm.deps.json
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/bin/Debug/net10.0/KadanAlgoritm.runtimeconfig.json
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/bin/Debug/net10.0/KadanAlgoritm.dll
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/bin/Debug/net10.0/KadanAlgoritm.pdb
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/obj/Debug/net10.0/KadanAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/obj/Debug/net10.0/KadanAlgoritm.AssemblyInfoInputs.cache
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/obj/Debug/net10.0/KadanAlgoritm.AssemblyInfo.cs
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/obj/Debug/net10.0/KadanAlgoritm.csproj.CoreCompileInputs.cache
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/obj/Debug/net10.0/KadanAlgoritm.dll
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/obj/Debug/net10.0/refint/KadanAlgoritm.dll
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/obj/Debug/net10.0/KadanAlgoritm.pdb
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/obj/Debug/net10.0/KadanAlgoritm.genruntimeconfig.cache
+/home/yvismeh/Documents/cSharp/KadanAlgoritm/obj/Debug/net10.0/ref/KadanAlgoritm.dll
