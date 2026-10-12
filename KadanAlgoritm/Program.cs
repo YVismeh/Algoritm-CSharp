@@ -45,6 +45,7 @@ class Program
 
         Console.Write("Best choise: ");
 
+        // print best choise
         for (int i = start; i <= end; i++)
         {
             Console.Write(a[i] + " ");
