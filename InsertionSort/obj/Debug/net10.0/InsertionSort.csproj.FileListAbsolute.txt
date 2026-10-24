@@ -1,0 +1,15 @@
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/bin/Debug/net10.0/InsertionSort
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/bin/Debug/net10.0/InsertionSort.deps.json
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/bin/Debug/net10.0/InsertionSort.runtimeconfig.json
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/bin/Debug/net10.0/InsertionSort.dll
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/bin/Debug/net10.0/InsertionSort.pdb
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/InsertionSort.AssemblyInfoInputs.cache
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/InsertionSort.AssemblyInfo.cs
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/InsertionSort.csproj.CoreCompileInputs.cache
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/InsertionSort.sourcelink.json
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/InsertionSort.dll
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/refint/InsertionSort.dll
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/InsertionSort.pdb
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/InsertionSort.genruntimeconfig.cache
+/home/yvismeh/Github/Algoritm-CSharp/InsertionSort/obj/Debug/net10.0/ref/InsertionSort.dll
