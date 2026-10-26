@@ -1,0 +1,15 @@
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\bin\Debug\net10.0\TestAlgoritm.exe
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\bin\Debug\net10.0\TestAlgoritm.deps.json
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\bin\Debug\net10.0\TestAlgoritm.runtimeconfig.json
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\bin\Debug\net10.0\TestAlgoritm.dll
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\bin\Debug\net10.0\TestAlgoritm.pdb
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\TestAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\TestAlgoritm.AssemblyInfoInputs.cache
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\TestAlgoritm.AssemblyInfo.cs
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\TestAlgoritm.csproj.CoreCompileInputs.cache
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\TestAlgoritm.sourcelink.json
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\TestAlgoritm.dll
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\refint\TestAlgoritm.dll
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\TestAlgoritm.pdb
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\TestAlgoritm.genruntimeconfig.cache
+C:\Users\YVismeh\Desktop\My Projects\Algoritm-CSharp\TestAlgoritm\obj\Debug\net10.0\ref\TestAlgoritm.dll
