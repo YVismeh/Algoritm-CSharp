@@ -1,0 +1,16 @@
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\bin\Debug\net5.0-windows\MazeGameGUI.exe
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\bin\Debug\net5.0-windows\MazeGameGUI.deps.json
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\bin\Debug\net5.0-windows\MazeGameGUI.runtimeconfig.json
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\bin\Debug\net5.0-windows\MazeGameGUI.runtimeconfig.dev.json
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\bin\Debug\net5.0-windows\MazeGameGUI.dll
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\bin\Debug\net5.0-windows\ref\MazeGameGUI.dll
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\bin\Debug\net5.0-windows\MazeGameGUI.pdb
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\obj\Debug\net5.0-windows\MazeGameGUI.csproj.AssemblyReference.cache
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\obj\Debug\net5.0-windows\MazeGameGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\obj\Debug\net5.0-windows\MazeGameGUI.AssemblyInfoInputs.cache
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\obj\Debug\net5.0-windows\MazeGameGUI.AssemblyInfo.cs
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\obj\Debug\net5.0-windows\MazeGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\obj\Debug\net5.0-windows\MazeGameGUI.dll
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\obj\Debug\net5.0-windows\ref\MazeGameGUI.dll
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\obj\Debug\net5.0-windows\MazeGameGUI.pdb
+C:\Users\YVismeh\Desktop\Projects\Algoritm-CSharp\MazeGameGUI\obj\Debug\net5.0-windows\MazeGameGUI.genruntimeconfig.cache
